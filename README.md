@@ -1,7 +1,8 @@
 # Part I: Basics
-## Chapter 1: Getting Started
+## Chapter 1: Getting Started: 
 	- Add SublimeText new Build System Tools>Build System>New Build System...
 	- Add this Python3.sublime-build
+	
 		```
 		{
 			"cmd": ["python3", "-u", "$file"],
